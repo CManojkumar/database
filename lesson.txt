@@ -1,0 +1,6 @@
+create - to create databases <table name>
+insert - insert the data values(ex.insert into <table name>values
+select - select the data or show the data  (ex.select * from <table name>
+update - change the data or update the database (ex. update <particular data or table name>
+delete -remove the data  (ex. remove <particular data>
+
