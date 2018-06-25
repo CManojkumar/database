@@ -1,6 +1,19 @@
-create - to create databases <table name>
-insert - insert the data values(ex.insert into <table name>values
-select - select the data or show the data  (ex.select * from <table name>
-update - change the data or update the database (ex. update <particular data or table name>
-delete -remove the data  (ex. remove <particular data>
+create - to create databases and then create  <table name>
+insert - insert the data values
+select - select the data or show the data  
+update - change the data or update the database 
+delete -remove the data 
+example
 
+create databases <name>
+create table table name (column 1,column 2,column 3,primery key (column 1));
+insert into table name values(column 1,column 2,column3);
+
+select column1 column 2 from table name;
+select * from table name
+update table name
+set column 1= value1,column 2 = value2 
+where = condition;
+delete from table name
+where = condition;
+ 
